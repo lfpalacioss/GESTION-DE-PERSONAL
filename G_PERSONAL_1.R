@@ -34,7 +34,7 @@ library(profvis)
 
 
 ## ######################## ###
-##     I) SETEO GENERAL     ####
+##     I) LEER BD EXCEL     ####
 ## ######################## ###
 
 # BORRAR TODO LO ANTERIOR
